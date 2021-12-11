@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaziro
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me:
 GMAIL: renatohoza99@gmail.com
