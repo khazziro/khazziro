@@ -8,7 +8,7 @@ I'm a self-taught **Front-end Developer** who's currently learning React. My ult
 - JavaScript
 - ReactJS
 - Git, GitHub, BitBucket
-- Sass, PostCSS
+- Sass, PostCSS, Tailwind CSS
 - npm, yarn, pnpm
 - Vite
 ### Projects
